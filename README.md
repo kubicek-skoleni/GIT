@@ -2,4 +2,5 @@
 skoleni GIT 2021
 
 Team:
-Lukas Kubicek, Filip
+Lukas Kubicek
+Josef Buchta

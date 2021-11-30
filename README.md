@@ -2,4 +2,4 @@
 skoleni GIT 2021
 
 Team:
-Lukas Kubicek
+Lukas Kubicek, Filip
